@@ -1,0 +1,6 @@
+# Allowlist: ignore everything by default, unignore intended project files
+*
+!.gitignore
+!grocery-checkout-kit-glb.zip
+!README.md
+!LICENSE
